@@ -1,6 +1,6 @@
 Name:		texlive-latex2nemeth
 Version:	64291
-Release:	1
+Release:	2
 Summary:	Convert LaTeX source to Braille with math in Nemeth
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex2nemeth
