@@ -3,7 +3,7 @@ Version:	64291
 Release:	2
 Summary:	Convert LaTeX source to Braille with math in Nemeth
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex2nemeth
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex2nemeth
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex2nemeth.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex2nemeth.doc.r%{version}.tar.xz
